@@ -1,0 +1,48 @@
+/* CSS styles */
+
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #2c3e50;
+color: #ecf0f1;
+  
+}
+
+h1 {
+font-family: Impact, sans-serif;
+color: #CE5937;
+}
+
+
+header {
+background-color: #27ae60;
+padding: 20px;
+text-align: center;
+color: white;
+font-size: 32px;
+}
+
+section {
+padding: 40px;
+margin: 20px;
+background-color: #34495e;
+border-radius: 10px;
+}
+
+h2 {
+color: #27ae60;
+margin-bottom: 20px;
+}
+
+p {
+line-height: 1.6;
+margin-bottom: 15px;
+}
+
+footer {
+background-color: #2c3e50;
+color: white;
+padding: 10px;
+text-align: center;
+}
